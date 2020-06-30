@@ -38,6 +38,10 @@ test.py ~ test6.py는 성능이 좋은 하이퍼파라미터를 걸러내기 위
 
 ResNet50 + Dense Layer + Dropout (0.5) + Dense Layer
 
+세부 설명
+
+https://lhj5682.blog.me/222015694137
+
 
 
 ### 모델 성능

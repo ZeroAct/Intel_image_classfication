@@ -42,9 +42,9 @@ ResNet50 + Dense Layer + Dropout (0.5) + Dense Layer
 
 ### 모델 성능
 
-![final_acc](D:\PythonProject\Intel_image_classfication\final_acc.png)
+![final_acc](final_acc.png)
 
-![final_loss](D:\PythonProject\Intel_image_classfication\final_loss.png)
+![final_loss](final_loss.png)
 
 max train accuracy : 95.97 %
 
